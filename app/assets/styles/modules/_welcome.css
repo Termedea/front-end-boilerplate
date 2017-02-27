@@ -1,0 +1,25 @@
+.welcome {
+	text-align: center;
+	background: $main;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	transform: translateY(-50%);
+
+	&__header {
+		font-weight: 100;
+		font-size: 1.2rem;
+
+		@mixin atSmall {
+			font-size: 3rem;
+		}
+	}
+
+	&__icon {
+		transform: scale(.7);
+
+		@mixin atSmall {
+			transform: scale(1);
+		}
+	}
+}

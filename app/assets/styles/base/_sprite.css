@@ -1,0 +1,22 @@
+/** Do not edit modules/_sprite directly, as it is generated automatically by gulp. Instead edit gulp/templates/sprite.css **/
+
+.icon {
+	background-image: url('../../assets/images/sprites/sprite-b89560ed.svg');
+	display: inline-block;
+}
+
+.no-svg .icon {
+	background-image: url('../../assets/images/sprites/sprite-b89560ed.png');
+}
+
+.icon--tools-black {
+	width: 102px;
+	height: 102px;
+	background-position: 0 0;
+}
+
+.icon--tools-purple {
+	width: 102px;
+	height: 102px;
+	background-position: 100% 0;
+}

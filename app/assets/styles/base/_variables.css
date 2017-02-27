@@ -1,0 +1,8 @@
+/* Color-declarations */
+$main: #c9adda;
+$darkerMain: #4e4454;
+
+/* Scren width breakpoints */
+$smallScreen: 530px;
+$mediumScreen: 800px;
+$largeScreen: 1010px;
