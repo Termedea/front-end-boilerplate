@@ -10,6 +10,8 @@ It includes:
 - Package.json for dependencies (web and dev)
 
 ## Instructions & Config
+- Clone this repository to your machine, using the link in *Clone or Download*, for example `git clone git@github.com:Termedea/front-end-boilerplate.git` (differs depending on if you use ssh or https.)
+- Change the git remote address to your own repo if you'd like to keep it on github. `git remote set-url origin git@github.com:[your-username]/[your-repo].git`
 - Change package name in package.json if needed
 - Run `npm install` to install dev and prod dependencies.
 
