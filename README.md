@@ -1,8 +1,16 @@
 # Boilerplate for my preferred front-end development setup
 
+- !!Deprecated!! 
++ I've set up a new one this autumn: https://github.com/Termedea/start-js
++ Also one for react: https://github.com/Termedea/start-react
+Both evolving as I learn.
+
+
 ## Description
 This boilerplate comes with some configuration according to a front-end workflow that I like.
 Taken from the Udemy course [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/git-a-web-developer-job-mastering-the-modern-workflow/learn/v4/overview)
+
+
 
 It includes:
 - Gulp-configuration for browsersync, webpack, creating sprites, postcss and creating deployment builds
