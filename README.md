@@ -1,10 +1,11 @@
 # Boilerplate for my preferred front-end development setup
 
+```diff
 - !!Deprecated!! 
 + I've set up a new one this autumn: https://github.com/Termedea/start-js
 + Also one for react: https://github.com/Termedea/start-react
 Both evolving as I learn.
-
+```
 
 ## Description
 This boilerplate comes with some configuration according to a front-end workflow that I like.
